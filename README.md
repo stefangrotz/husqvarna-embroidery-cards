@@ -6,6 +6,14 @@ The cards have a key on the left that encodes how five contacts inside of the ma
 
 ![](card-example.png)
 
+### Code
+Right now I only have the card from the picture above, wich isn't ideal for reverse engineering. 
+
+Right now I assume that the card works like this:
+* The gap on the top comes after five milimeters and is around six or seven milimeters wide. It has to exist to be able to insert a card
+* The encoding happens on the bottom of the card. The upper pin is biger than the four pins below, I would say around 7 mm
+* The four pins on the bottom all look like they have a width of 5 mm
+
 ## List of Cards
 
 Pins pushed (beginning on the top) |  Motives | 
