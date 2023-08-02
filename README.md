@@ -24,4 +24,9 @@ Pins pushed (beginning on the top) |  Motives |
 
 
 ## How to recreate the cards
-Right now I am working with cuppoard and a sissior, but I hope I will improve my approach over time.
+I am working with cuppoard and a sissior, but I hope I will improve my approach over time.
+
+
+## Links
+* Manual: https://www.husqvarnaviking.com/SiteFiles/ClientSite/8f/8f239047-a0b9-48e0-9da4-078b91da7ce3.pdf (starting on page 20)
+* 
