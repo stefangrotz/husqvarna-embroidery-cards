@@ -1,4 +1,4 @@
-# husqvarna-embroidery-cards
+# Husqvarna Embroidery Cards
 I own a husqvarna 1250 but this should also work with a husqvarna 1200. Fell free to improve or enhance this documentaiton!
 
 ## Basic information
