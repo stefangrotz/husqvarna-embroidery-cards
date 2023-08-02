@@ -8,4 +8,8 @@ The cards have a key on the left that encodes how five contacts inside of the ma
 
 ## List of Cards
 
-> table
+Pins pushed |  Motives | 
+|---|---|
+|  all | Basic stitches (see obove)  |
+| 1,2,3,4 (basic card upside down)  |  leaves and hearts |
+|   |   | 
