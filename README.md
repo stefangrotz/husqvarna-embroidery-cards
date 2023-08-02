@@ -13,3 +13,7 @@ Pins pushed |  Motives |
 |  all | Basic stitches (see obove)  |
 | 1,2,3,4 (basic card upside down)  |  leaves and hearts |
 |   |   | 
+
+
+## How to recreate the cards
+Right now I am working with cuppoard and a sissior, but I hope I will improve my approach over time.
